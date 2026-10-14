@@ -18,6 +18,10 @@ Vim da área administrativa (atendimento, e-commerce, rotinas de escritório) e 
 ![Excel](https://img.shields.io/badge/Excel-B794F4?style=for-the-badge)
 
 ## 💜 Em código
+<div align="center">
+  <img src="gato.gif" width="200" alt="em código">
+</div>
+
 - 🔭 Projeto recente: sistema de estoque para loja de equipamentos de computador
 - 🌱 Estou aprendendo: Python (curso da Santander Open Academy), SQL e lógica de programação
 - 🎓 Já ensinei lógica de programação para iniciantes em um centro comunitário
