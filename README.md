@@ -25,14 +25,21 @@ Vim da área administrativa (atendimento, e-commerce, rotinas de escritório) e 
 - 💬 Pergunte-me sobre: atendimento ao cliente, anúncios em marketplaces e rotinas administrativas
 
 ## 🪻 Fora do código
+
+<div align="center">
+  <img src="totoro.gif" width="120" alt="Totoro">
+</div>
+
 - 🕹️ Jogos: Cozy Games, Assassin's Creed, Danganronpa e CoD
 - 📺 Série: Criminal Minds
+- 🍇 Animes: gosto de assistir
 - 🎵 Som: sou eclética, mas curto Pop, PopRock e Musicais
 - 📚 Livro preferido: a série Percy Jackson
-- 🟣 Gosto de: ler, assistir animes, jogar, estudar e aprender coisas novas
+- 🟣 Gosto de: ler, jogar, estudar e aprender coisas novas
 
 ## 📫 Contato
-- [LinkedIn](https://linkedin.com/in/anaclaudiaramos) | ac595479@gmail.com | [Discord: @lunixvesper](https://discord.com/users/377055967357173760)
+- [LinkedIn](https://linkedin.com/in/anaclaudiaramos) | ac595479@gmail.com
+- 💬 [Discord: @lunixvesper](https://discord.com/users/377055967357173760)
 - 😄 Pronomes: ela/dela
 
 <div align="center">
