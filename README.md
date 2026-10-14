@@ -49,5 +49,9 @@ Vim da área administrativa (atendimento, e-commerce, rotinas de escritório) e 
 - [LinkedIn](https://linkedin.com/in/anaclaudiaramos) | ac595479@gmail.com | [Discord: @lunixvesper](https://discord.com/users/377055967357173760)
 - 😄 Pronomes: ela/dela
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=7C5295&height=100&section=footer)
+<div align="center">
+  <img src="banner.gif" width="500" alt="banner">
+</div>
+
+
 </div>
