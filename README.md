@@ -38,12 +38,12 @@ Vim da área administrativa (atendimento, e-commerce, rotinas de escritório) e 
 - 🟣 Gosto de: ler, jogar, estudar e aprender coisas novas
 
 ## 📫 Contato
+<div align="center">
+  <img src="rodape.gif" width="200" alt="Rodapé">
+  
 - [LinkedIn](https://linkedin.com/in/anaclaudiaramos) | ac595479@gmail.com
 - 💬 [Discord: @lunixvesper](https://discord.com/users/377055967357173760)
 - 😄 Pronomes: ela/dela
-
-<div align="center">
-  <img src="rodape.gif" width="200" alt="Rodapé">
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=7C5295&height=100&section=footer)
 </div>
