@@ -27,7 +27,7 @@ Vim da área administrativa (atendimento, e-commerce, rotinas de escritório) e 
 ## 🪻 Fora do código
 
 <div align="center">
-  <img src="totoro.gif" width="120" alt="Totoro">
+  <img src="https://raw.githubusercontent.com/anaclaudia112/anaclaudia112/main/totoro.gif" width="120" alt="Totoro">
 </div>
 
 - 🕹️ Jogos: Cozy Games, Assassin's Creed, Danganronpa e CoD
