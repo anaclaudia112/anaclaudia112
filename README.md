@@ -1,6 +1,6 @@
 <div align="center">
+  <img src="banner.gif" width="100%" alt="banner">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=7C5295&height=180&section=header&text=Ana%20Claudia&fontSize=48&fontColor=ffffff)
 
 ![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=B794F4&center=true&vCenter=true&width=620&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Do+administrativo+%C3%A0+tecnologia;Aprendendo+Python+e+SQL+%F0%9F%92%9C)
 
