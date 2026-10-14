@@ -40,7 +40,8 @@ Vim da área administrativa (atendimento, e-commerce, rotinas de escritório) e 
 ## 📫 Contato
 <div align="center">
   <img src="rodape.gif" width="200" alt="Rodapé">
-</div>  
+</div>
+
 - [LinkedIn](https://linkedin.com/in/anaclaudiaramos) | ac595479@gmail.com | [Discord: @lunixvesper](https://discord.com/users/377055967357173760)
 - 😄 Pronomes: ela/dela
 
