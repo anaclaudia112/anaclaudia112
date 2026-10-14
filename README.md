@@ -43,7 +43,7 @@ Vim da área administrativa (atendimento, e-commerce, rotinas de escritório) e 
 - 😄 Pronomes: ela/dela
 
 <div align="center">
+  <img src="rodape.gif" width="200" alt="Rodapé">
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=7C5295&height=100&section=footer)
-
 </div>
